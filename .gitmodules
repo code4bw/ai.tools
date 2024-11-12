@@ -4,3 +4,6 @@
 [submodule "reader"]
 	path = reader
 	url = git@github.com:code4bw/ai.reader.git
+[submodule "virtuals"]
+	path = virtuals
+	url = git@github.com:code4bw/ai.virtuals.git
